@@ -1,0 +1,32 @@
+:root {
+  --bg-gray: #b0b8b4;
+}
+
+body {
+  background: var(--bg-gray);
+  text-align: center;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 8.5vh;
+  text-align: center;
+}
+
+.img-title {
+  width: 100%;
+  height: auto;
+}
+
+ul li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 5vh;
+}
+
+a:hover {
+  color: aquamarine;
+}
